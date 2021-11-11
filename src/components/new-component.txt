@@ -1,0 +1,3 @@
+to generate a new component run this command:
+
+npx generate-react-cli component NewComponent
